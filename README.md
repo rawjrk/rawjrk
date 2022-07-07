@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML/CSS and JavaScript
+- 🌱 I’m currently learning Express/Node.js
+- _... and I'm looking forward to learn React or TypeScript in the nearest future_
 - 📫 You can reach me at rodjer7777@gmail.com
+- ⚡ Fun fact: F U N is strongly prohibited
 
 <!--
 **rawjrk/rawjrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
