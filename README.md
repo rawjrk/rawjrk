@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Express/Node.js
-- _... and I'm looking forward to learn React and TypeScript in the nearest future_
+- 🌱 I’m currently learning React. [Oh, Really?](https://github.com/MoonHighway/learning-react)
+- _... and I'm looking forward to learn TypeScript in the nearest future_
 - 📫 You can reach me at rodjer7777@gmail.com
 - ⚡ Fun fact: F.U.N. is strongly prohibited!
 
