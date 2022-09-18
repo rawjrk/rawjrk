@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning React. [Oh, Really?](https://github.com/MoonHighway/learning-react)
-- ⚡ Fun fact: F.U.N. is strongly prohibited!
+- ⚡ Fun fact: F-U-N is strongly prohibited!
 
 <!--
 **rawjrk/rawjrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
