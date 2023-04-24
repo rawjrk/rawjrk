@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React. [Oh, Really?](https://github.com/MoonHighway/learning-react)
-- 🎈 And I'm going to learn TypeScript and Nest.js in the nearest future.
 - ⚡ Fun fact: F-U-N is strongly prohibited!
 
 <!--
