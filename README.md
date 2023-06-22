@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on [wilbur-api](https://github.com/rawjrk/wilbur-api) and [num-sys-converter](https://github.com/rawjrk/num-sys-converter).
 - ⚡ Fun fact: F-U-N is strongly prohibited!
-- 😄 Pronouns: stolen.
-- 🐵 MONKE.
 
 <!--
 **rawjrk/rawjrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
