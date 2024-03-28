@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [wilbur-api](https://github.com/rawjrk/wilbur-api).
+- 🌱 I’m currently learning ▓▓▓▓▓▓▓▓▓▓▓ (quite something).
 - ⚡ Fun fact: F-U-N is strongly prohibited!
 
 <!--
