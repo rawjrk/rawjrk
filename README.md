@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning ▓▓▓▓▓▓▓▓▓▓▓ (quite something).
 - ⚡ Fun fact: F-U-N is strongly prohibited!
+- 😄 `const pronouns: any = 'stolen';`
+- 🐵 MONKE 🐵
 
 <!--
 **rawjrk/rawjrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
