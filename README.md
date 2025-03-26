@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there, it's me 👋
 
-- 🌱 I’m currently learning ▓▓▓▓▓▓▓▓▓▓▓ (quite something).
-- ⚡ Fun fact: F-U-N is strongly prohibited!
-- 😄 `const pronouns: any = 'stolen';`
-- 🐵 MONKE 🐵
+- 👷🔧 Currently working on [webtool for LIVE datamosh](https://github.com/rawjrk/gvfsashgawt-nekoweb?tab=readme-ov-file#destroy-data-not-people).
+- 🦾🦄 Glitchart enthusiast.
+- 🐵💻 Wise monke coder.
+- 🐸🏴 No gender, only fröggie.
+- 🤷‍♀️ Accused of several crimes against **F.U.N.**
+- ✋ **F.U.N.** speech is not tolerated by authoritarian anarcho-state.
 
 <!--
 **rawjrk/rawjrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
