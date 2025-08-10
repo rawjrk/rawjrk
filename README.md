@@ -3,6 +3,7 @@
 - 👷🔧 Currently working on [webtool for LIVE datamosh](https://github.com/rawjrk/gvfsashgawt-nekoweb?tab=readme-ov-file#destroy-data-not-people).
 - 🦾🦄 Glitchart enthusiast.
 - 🐵💻 Wise monke coder.
+- ☕☕ Black coffee addicted.
 - 🐸🏴 No gender, only fröggie.
 - 🤷‍♀️ Accused of several crimes against **F.U.N.**
 - ✋ **F.U.N.** speech is not tolerated by authoritarian anarcho-state.
