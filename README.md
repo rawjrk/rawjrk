@@ -1,6 +1,7 @@
 ### Hi there, it's me 👋
 
-- 👷🔧 Currently working on [webtool for LIVE datamosh](https://github.com/rawjrk/gvfsashgawt-nekoweb?tab=readme-ov-file#destroy-data-not-people).
+- 👷🔧 Currently not working on anything particular.
+- 📚🌱 Learning cool stuff from Stolyarov's [Programing Intro](http://stolyarov.info/books/programming_intro).
 - 🦾🦄 Glitchart enthusiast.
 - 🐵💻 Wise monke coder.
 - ☕☕ Black coffee addicted.
